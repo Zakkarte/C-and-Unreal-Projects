@@ -1,0 +1,5 @@
+﻿  ConsoleApplication220InheritedClasses.cpp
+C:\Users\dakot\source\repos\ConsoleApplication220InheritedClasses\ConsoleApplication220InheritedClasses\ConsoleApplication220InheritedClasses.cpp(30,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dakot\source\repos\ConsoleApplication220InheritedClasses\ConsoleApplication220InheritedClasses\ConsoleApplication220InheritedClasses.cpp(39,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\dakot\source\repos\ConsoleApplication220InheritedClasses\ConsoleApplication220InheritedClasses\ConsoleApplication220InheritedClasses.cpp(41,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication220InheritedClasses.vcxproj -> C:\Users\dakot\source\repos\ConsoleApplication220InheritedClasses\Debug\ConsoleApplication220InheritedClasses.exe
